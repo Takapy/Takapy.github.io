@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "uninitialized.application.id",
+    "package_name": "com.example.applinkstester",
     "sha256_cert_fingerprints":
     ["8E:C1:B0:23:26:75:98:4A:CF:8D:2E:77:D9:41:BE:27:DF:7E:C9:DA:17:47:38:64:68:C2:19:21:22:0D:1A:87"]
   }
